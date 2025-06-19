@@ -1,4 +1,0 @@
-﻿  FileName.c
-C:\Personal Programming\personal git\VS2022\C语言整体练习\FileName.c(9,6): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-C:\Personal Programming\personal git\VS2022\C语言整体练习\FileName.c(29,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  复习面积.vcxproj -> C:\Personal Programming\personal git\VS2022\C语言整体练习\x64\Debug\C语言整体复习.exe
