@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Personal Programming\personal git\VS2022\AA.Review of rectangle area\复习面积\</FILEPATH>
+      <FILENAME>Choose review.c</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6064</DEFECTCODE>
+    <DESCRIPTION>缺少“scanf_s”的整型参数(对应于转换说明符“2”)。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

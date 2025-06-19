@@ -1,0 +1,6 @@
+﻿C:\Personal Programming\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(复习面积.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  A.Rectangle area.c
+  B.Usage of if else.c
+  AAA.Choose review.c
+  正在生成代码...
+  复习面积.vcxproj -> C:\Personal Programming\personal git\VS2022\AA.Review of rectangle area\x64\Debug\C语言整体复习.exe
